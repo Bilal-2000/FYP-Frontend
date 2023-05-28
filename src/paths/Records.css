@@ -1,0 +1,13 @@
+#record-table{
+    border: solid 3px black;
+}
+
+#pred-result{
+    font-weight: bolder;
+    color: white;
+}
+
+#record-container{
+    height: 90%;
+    overflow-y: auto;
+}

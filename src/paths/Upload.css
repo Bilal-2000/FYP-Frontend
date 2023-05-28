@@ -1,0 +1,21 @@
+.centered-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Adjust the height as needed */
+}
+
+#prediction{
+  margin-top: 2rem;
+  color: goldenrod;
+  font-size: 20px;
+}
+
+#confidence{
+  color: goldenrod;
+  font-size: 20px;
+}
+  
+  /* .centered-content { */
+    /* Additional styling for the centered content */
+  /* } */
